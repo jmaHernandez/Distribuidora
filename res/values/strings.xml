@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Distribuidora</string>
+    <string name="action_settings">Settings</string>
+    <string name="header">Distribuidora de Vehiculos "ETI-Wheel"</string>
+    <string name="title_activity_altas">Altas</string>
+    <string name="title_activity_bajas">Bajas</string>
+    <string name="title_activity_reportes">Reportes</string>
+
+</resources>
